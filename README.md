@@ -1,2 +1,2 @@
 # associations
-associations within ocool
+associations within @ocool-org
