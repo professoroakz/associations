@@ -1,2 +1,2 @@
 # associations
-associationsw within ocool
+associations within ocool
