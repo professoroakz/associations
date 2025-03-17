@@ -1,2 +1,2 @@
 # associations
-associations within @ocool-org
+associations within @ocool https://github.com/ocool-org
